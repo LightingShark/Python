@@ -1,4 +1,4 @@
-# Average of the numbers
+# Average of the N numbers
 
 N = int(input())
 counter = 0                        #intializing a counter to control a while loop
