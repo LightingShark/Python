@@ -1,3 +1,5 @@
+#Write a Python program that identifies all prime numbers from an input number and its individual digits.
+
 entered_number = int(input())
 
 actual_number_list = [entered_number]
